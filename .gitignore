@@ -1,0 +1,23 @@
+##########################
+# Unreal Generated Files #
+##########################
+Build
+Binaries
+DerivedDataCache
+Intermediate/**
+Saved
+Content/StarterContent/
+_ReSharper.Caches/
+
+**/Plugins/**/Binaries/**
+**/Plugins/**/Intermediate/**
+**/Plugins/**/DerivedDataCache/**
+**/Plugins/**/Saved/**
+.vs
+
+######################
+# VS Generated Files #
+######################
+*.VC.db
+*.VC.opendb
+*.pdb
